@@ -1,3 +1,3 @@
-# Fizz-Buzz
+# Fizz Buzz
 
 Implementation in Java
